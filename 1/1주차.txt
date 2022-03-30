@@ -1,0 +1,4 @@
+c#의 기본 코딩단위는 class
+class 안에는 한 개 이상의 메소드 method가 있어야 한다. ( Main)
+namespace는 class를 분류해줄 수 있는 단위. 필수는 아님
+
